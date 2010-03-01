@@ -1,0 +1,25 @@
+#chat {
+	width: 400px;
+	height: 500px;
+	margin-bottom: 10px;
+	border: 1px solid;
+	overflow-y: scroll;
+	float: left;	
+}
+
+#online_users {
+	width: 135px;
+	height: 500px;
+	border: 1px solid;
+	margin-left: 10px;
+	float: left;
+}
+
+#message {
+	width: 500px;
+	height: 30px;
+}
+
+.clear {
+	clear: both;
+}
